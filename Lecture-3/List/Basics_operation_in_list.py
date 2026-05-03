@@ -5,7 +5,7 @@ print(A)
 print(type(A))
 #lenth of this list
 print(len(A))
-#list is mutable so we can chang
+#list is mutable so we can change
 A[4] = 55
 print(A)
 A[1] = ' '
